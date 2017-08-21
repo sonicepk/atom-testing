@@ -1,3 +1,6 @@
 # atom-testing
 
-Some new test 
+Some new test
+Some more text
+
+new
